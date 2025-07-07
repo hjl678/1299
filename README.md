@@ -37,4 +37,4 @@ JULIA：MIDE-934、JUQ-254
 四、用户观影建议
 虽然部分资源站免费开放，但也存在广告泛滥、假冒链接、隐私泄露风险。建议使用带有广告拦截功能的浏览器，并避免注册敏感账号。使用磁力资源时请开启VPN，保护上网安全。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/hjl678/1299 ）</span>
